@@ -1,0 +1,1 @@
+### Golang SDK v2 example codes
